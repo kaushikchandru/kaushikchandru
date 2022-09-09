@@ -6,6 +6,14 @@
 
 ![Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=kaushikchandru&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/figma/figma-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
+<br />
+<br />
+
 
 ## Connect with Me
 
