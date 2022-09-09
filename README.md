@@ -13,6 +13,7 @@
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/unity/unity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 <br />
 <br />
 
