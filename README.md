@@ -18,6 +18,7 @@ I am Kaushik. I work as a 2D Game and mobile application developer. I love to co
 <br />
 <br />
 
+[![Kaushik's SO profile](https://stackoverflow.com/users/17169037/kaushik-chandru/:template/:id)](https://github.com/kaushikchandru/stackoverflow-readme-profile)
 
 ## Connect with Me
 
