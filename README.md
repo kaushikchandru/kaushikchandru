@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Kaushik. I work as a 2D Game and mobile application developer. I love to code Ui and animations. Like to solve difficult tasks and feel happy to code AI for games and apps.
 
 - 🌱 I’m constantly learning new things
 - 💬 Ask me about my projects 
