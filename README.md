@@ -18,7 +18,7 @@ I am Kaushik. I work as a 2D Game and mobile application developer. I love to co
 <br />
 <br />
 
-[![user:17169037's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/17169037?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![user:17169037's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/17169037?theme=dark&website=true&location=true)]([https://github.com/johannchopin/stackoverflow-readme-profile](https://stackoverflow.com/users/17169037/kaushik-chandru))
 
 ## Connect with Me
 
